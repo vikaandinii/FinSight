@@ -1,0 +1,3070 @@
+[
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2022",
+    "quarter": "Q1",
+    "period_date": "2022-03-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2022-I-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 17071566.0,
+        "formatted_value": "17.071.566",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 611533626.0,
+        "formatted_value": "611.533.626",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1259435392.0,
+        "formatted_value": "1.259.435.392",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1058917549.0,
+        "formatted_value": "1.058.917.549",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 194689318.0,
+        "formatted_value": "194.689.318",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 9953324.0,
+        "formatted_value": "9.953.324",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 8067748.0,
+        "formatted_value": "8.067.748",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 8064433.0,
+        "formatted_value": "8.064.433",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2022",
+    "quarter": "Q1",
+    "period_date": "2022-03-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2022-I-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 11435294.0,
+        "formatted_value": "11.435.294",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 489720558.0,
+        "formatted_value": "489.720.558",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 931982781.0,
+        "formatted_value": "931.982.781",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 803442897.0,
+        "formatted_value": "803.442.897",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 125834661.0,
+        "formatted_value": "125.834.661",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 4871182.0,
+        "formatted_value": "4.871.182",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 3975314.0,
+        "formatted_value": "3.975.314",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 3962283.0,
+        "formatted_value": "3.962.283",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2022",
+    "quarter": "Q1",
+    "period_date": "2022-03-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2022-I-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 18255919.0,
+        "formatted_value": "18.255.919",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 948063032.0,
+        "formatted_value": "948.063.032",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1650279242.0,
+        "formatted_value": "1.650.279.242",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1374292888.0,
+        "formatted_value": "1.374.292.888",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 272274732.0,
+        "formatted_value": "272.274.732",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 15359883.0,
+        "formatted_value": "15.359.883",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 12219621.0,
+        "formatted_value": "12.219.621",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 12167224.0,
+        "formatted_value": "12.167.224",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2022",
+    "quarter": "Q2",
+    "period_date": "2022-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2022-II-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 15527363.0,
+        "formatted_value": "15.527.363",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 649275178.0,
+        "formatted_value": "649.275.178",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1264467919.0,
+        "formatted_value": "1.264.467.919",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1055751265.0,
+        "formatted_value": "1.055.751.265",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 202986810.0,
+        "formatted_value": "202.986.810",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 22298433.0,
+        "formatted_value": "22.298.433",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 18056409.0,
+        "formatted_value": "18.056.409",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 18049471.0,
+        "formatted_value": "18.049.471",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2022",
+    "quarter": "Q2",
+    "period_date": "2022-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2022-II-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 10992055.0,
+        "formatted_value": "10.992.055",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 510683131.0,
+        "formatted_value": "510.683.131",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 946495285.0,
+        "formatted_value": "946.495.285",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 816004444.0,
+        "formatted_value": "816.004.444",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 126242767.0,
+        "formatted_value": "126.242.767",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 10818633.0,
+        "formatted_value": "10.818.633",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 8872133.0,
+        "formatted_value": "8.872.133",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 8803212.0,
+        "formatted_value": "8.803.212",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2022",
+    "quarter": "Q2",
+    "period_date": "2022-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2022-II-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 20512246.0,
+        "formatted_value": "20.512.246",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 966986252.0,
+        "formatted_value": "966.986.252",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1652838717.0,
+        "formatted_value": "1.652.838.717",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1366573452.0,
+        "formatted_value": "1.366.573.452",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 282580908.0,
+        "formatted_value": "282.580.908",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 31224279.0,
+        "formatted_value": "31.224.279",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 24876271.0,
+        "formatted_value": "24.876.271",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 24786205.0,
+        "formatted_value": "24.786.205",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2022",
+    "quarter": "Q3",
+    "period_date": "2022-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2022-III-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 14532585.0,
+        "formatted_value": "14.532.585",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 656879947.0,
+        "formatted_value": "656.879.947",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1288723136.0,
+        "formatted_value": "1.288.723.136",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1071270200.0,
+        "formatted_value": "1.071.270.200",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 211940343.0,
+        "formatted_value": "211.940.343",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 35805328.0,
+        "formatted_value": "35.805.328",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 28969940.0,
+        "formatted_value": "28.969.940",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 28954563.0,
+        "formatted_value": "28.954.563",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2022",
+    "quarter": "Q3",
+    "period_date": "2022-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2022-III-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 11808846.0,
+        "formatted_value": "11.808.846",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 516448477.0,
+        "formatted_value": "516.448.477",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 943607612.0,
+        "formatted_value": "943.607.612",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 809606100.0,
+        "formatted_value": "809.606.100",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 129739295.0,
+        "formatted_value": "129.739.295",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 16784501.0,
+        "formatted_value": "16.784.501",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 13801971.0,
+        "formatted_value": "13.801.971",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 13692217.0,
+        "formatted_value": "13.692.217",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2022",
+    "quarter": "Q3",
+    "period_date": "2022-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2022-III-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 21231395.0,
+        "formatted_value": "21.231.395",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 982389038.0,
+        "formatted_value": "982.389.038",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1684604124.0,
+        "formatted_value": "1.684.604.124",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1384268523.0,
+        "formatted_value": "1.384.268.523",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 296577553.0,
+        "formatted_value": "296.577.553",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 49238485.0,
+        "formatted_value": "49.238.485",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 39311445.0,
+        "formatted_value": "39.311.445",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 39156233.0,
+        "formatted_value": "39.156.233",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2022",
+    "quarter": "Tahunan",
+    "period_date": "2022-12-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2022-Tahunan-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 21359509.0,
+        "formatted_value": "21.359.509",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 685491059.0,
+        "formatted_value": "685.491.059",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1314731674.0,
+        "formatted_value": "1.314.731.674",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1087109644.0,
+        "formatted_value": "1.087.109.644",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 221018606.0,
+        "formatted_value": "221.018.606",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 50467033.0,
+        "formatted_value": "50.467.033",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 40755572.0,
+        "formatted_value": "40.755.572",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 40735722.0,
+        "formatted_value": "40.735.722",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2022",
+    "quarter": "Tahunan",
+    "period_date": "2022-12-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2022-Tahunan-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 13448092.0,
+        "formatted_value": "13.448.092",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 541462152.0,
+        "formatted_value": "541.462.152",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1029836868.0,
+        "formatted_value": "1.029.836.868",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 889639206.0,
+        "formatted_value": "889.639.206",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 135815715.0,
+        "formatted_value": "135.815.715",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 22686708.0,
+        "formatted_value": "22.686.708",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 18481780.0,
+        "formatted_value": "18.481.780",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 18312054.0,
+        "formatted_value": "18.312.054",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2022",
+    "quarter": "Tahunan",
+    "period_date": "2022-12-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2022-Tahunan-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 27407478.0,
+        "formatted_value": "27.407.478",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1015525063.0,
+        "formatted_value": "1.015.525.063",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1865639010.0,
+        "formatted_value": "1.865.639.010",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1562243693.0,
+        "formatted_value": "1.562.243.693",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 299294011.0,
+        "formatted_value": "299.294.011",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 64596701.0,
+        "formatted_value": "64.596.701",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 51408207.0,
+        "formatted_value": "51.408.207",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 51170312.0,
+        "formatted_value": "51.170.312",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2023",
+    "quarter": "Q1",
+    "period_date": "2023-03-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2023-I-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 19537906.0,
+        "formatted_value": "19.537.906",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 690858633.0,
+        "formatted_value": "690.858.633",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1321722691.0,
+        "formatted_value": "1.321.722.691",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1103911254.0,
+        "formatted_value": "1.103.911.254",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 211261029.0,
+        "formatted_value": "211.261.029",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 14219674.0,
+        "formatted_value": "14.219.674",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 11532900.0,
+        "formatted_value": "11.532.900",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 11529784.0,
+        "formatted_value": "11.529.784",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2023",
+    "quarter": "Q1",
+    "period_date": "2023-03-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2023-I-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 12139067.0,
+        "formatted_value": "12.139.067",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 542459179.0,
+        "formatted_value": "542.459.179",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1012362504.0,
+        "formatted_value": "1.012.362.504",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 867299568.0,
+        "formatted_value": "867.299.568",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 140710446.0,
+        "formatted_value": "140.710.446",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 6457237.0,
+        "formatted_value": "6.457.237",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 5263634.0,
+        "formatted_value": "5.263.634",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 5220516.0,
+        "formatted_value": "5.220.516",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2023",
+    "quarter": "Q1",
+    "period_date": "2023-03-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2023-I-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 24443193.0,
+        "formatted_value": "24.443.193",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1037787262.0,
+        "formatted_value": "1.037.787.262",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1822973421.0,
+        "formatted_value": "1.822.973.421",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1538522759.0,
+        "formatted_value": "1.538.522.759",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 279584023.0,
+        "formatted_value": "279.584.023",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 19597014.0,
+        "formatted_value": "19.597.014",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 15563915.0,
+        "formatted_value": "15.563.915",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 15501857.0,
+        "formatted_value": "15.501.857",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2023",
+    "quarter": "Q2",
+    "period_date": "2023-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2023-II-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 18463789.0,
+        "formatted_value": "18.463.789",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 712633198.0,
+        "formatted_value": "712.633.198",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1356757402.0,
+        "formatted_value": "1.356.757.402",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1125020017.0,
+        "formatted_value": "1.125.020.017",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 224598612.0,
+        "formatted_value": "224.598.612",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 29882839.0,
+        "formatted_value": "29.882.839",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 24200023.0,
+        "formatted_value": "24.200.023",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 24190206.0,
+        "formatted_value": "24.190.206",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2023",
+    "quarter": "Q2",
+    "period_date": "2023-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2023-II-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 11463921.0,
+        "formatted_value": "11.463.921",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 541073050.0,
+        "formatted_value": "541.073.050",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1025091056.0,
+        "formatted_value": "1.025.091.056",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 881617421.0,
+        "formatted_value": "881.617.421",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 139001885.0,
+        "formatted_value": "139.001.885",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 12704256.0,
+        "formatted_value": "12.704.256",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 10399343.0,
+        "formatted_value": "10.399.343",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 10301755.0,
+        "formatted_value": "10.301.755",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2023",
+    "quarter": "Q2",
+    "period_date": "2023-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2023-II-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 28403964.0,
+        "formatted_value": "28.403.964",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1066723070.0,
+        "formatted_value": "1.066.723.070",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1805146314.0,
+        "formatted_value": "1.805.146.314",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1506654628.0,
+        "formatted_value": "1.506.654.628",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 293518538.0,
+        "formatted_value": "293.518.538",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 37200131.0,
+        "formatted_value": "37.200.131",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 29561361.0,
+        "formatted_value": "29.561.361",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 29421509.0,
+        "formatted_value": "29.421.509",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2023",
+    "quarter": "Q3",
+    "period_date": "2023-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2023-III-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 15037438.0,
+        "formatted_value": "15.037.438",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 739871514.0,
+        "formatted_value": "739.871.514",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1381449427.0,
+        "formatted_value": "1.381.449.427",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1138285697.0,
+        "formatted_value": "1.138.285.697",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 235751007.0,
+        "formatted_value": "235.751.007",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 45010173.0,
+        "formatted_value": "45.010.173",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 36440119.0,
+        "formatted_value": "36.440.119",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 36420377.0,
+        "formatted_value": "36.420.377",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2023",
+    "quarter": "Q3",
+    "period_date": "2023-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2023-III-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 10718775.0,
+        "formatted_value": "10.718.775",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 551663353.0,
+        "formatted_value": "551.663.353",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1009308655.0,
+        "formatted_value": "1.009.308.655",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 862091109.0,
+        "formatted_value": "862.091.109",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 142781625.0,
+        "formatted_value": "142.781.625",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 19376293.0,
+        "formatted_value": "19.376.293",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 15888925.0,
+        "formatted_value": "15.888.925",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 15753290.0,
+        "formatted_value": "15.753.290",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2023",
+    "quarter": "Q3",
+    "period_date": "2023-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2023-III-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 24132475.0,
+        "formatted_value": "24.132.475",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1106328134.0,
+        "formatted_value": "1.106.328.134",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1851964853.0,
+        "formatted_value": "1.851.964.853",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1540431029.0,
+        "formatted_value": "1.540.431.029",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 306601224.0,
+        "formatted_value": "306.601.224",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 55718531.0,
+        "formatted_value": "55.718.531",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 44213569.0,
+        "formatted_value": "44.213.569",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 43992607.0,
+        "formatted_value": "43.992.607",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2023",
+    "quarter": "Tahunan",
+    "period_date": "2023-12-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2023-Tahunan-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 21701514000000.0,
+        "formatted_value": "21.701.514.000.000",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 783718193000000.0,
+        "formatted_value": "783.718.193.000.000",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1408107010000000.0,
+        "formatted_value": "1.408.107.010.000.000",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1157675545000000.0,
+        "formatted_value": "1.157.675.545.000.000",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 242356256000000.0,
+        "formatted_value": "242.356.256.000.000",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 60179757000000.0,
+        "formatted_value": "60.179.757.000.000",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 48658095000000.0,
+        "formatted_value": "48.658.095.000.000",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 48639122000000.0,
+        "formatted_value": "48.639.122.000.000",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2023",
+    "quarter": "Tahunan",
+    "period_date": "2023-12-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2023-Tahunan-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 11207201000000.0,
+        "formatted_value": "11.207.201.000.000",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 568725449000000.0,
+        "formatted_value": "568.725.449.000.000",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1086663986000000.0,
+        "formatted_value": "1.086.663.986.000.000",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 931931466000000.0,
+        "formatted_value": "931.931.466.000.000",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 150131014000000.0,
+        "formatted_value": "150.131.014.000.000",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 25639738000000.0,
+        "formatted_value": "25.639.738.000.000",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 21106228000000.0,
+        "formatted_value": "21.106.228.000.000",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 20909476000000.0,
+        "formatted_value": "20.909.476.000.000",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2023",
+    "quarter": "Tahunan",
+    "period_date": "2023-12-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2023-Tahunan-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 31603784000000.0,
+        "formatted_value": "31.603.784.000.000",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1136675227000000.0,
+        "formatted_value": "1.136.675.227.000.000",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1965007030000000.0,
+        "formatted_value": "1.965.007.030.000.000",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1648534888000000.0,
+        "formatted_value": "1.648.534.888.000.000",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 311363556000000.0,
+        "formatted_value": "311.363.556.000.000",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 76429712000000.0,
+        "formatted_value": "76.429.712.000.000",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 60425048000000.0,
+        "formatted_value": "60.425.048.000.000",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 60099863000000.0,
+        "formatted_value": "60.099.863.000.000",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2024",
+    "quarter": "Q2",
+    "period_date": "2024-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2024-II-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 16820177.0,
+        "formatted_value": "16.820.177",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 821567473.0,
+        "formatted_value": "821.567.473",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1425417230.0,
+        "formatted_value": "1.425.417.230",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1176303894.0,
+        "formatted_value": "1.176.303.894",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 240679250.0,
+        "formatted_value": "240.679.250",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 33222566.0,
+        "formatted_value": "33.222.566",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 26877499.0,
+        "formatted_value": "26.877.499",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 26876184.0,
+        "formatted_value": "26.876.184",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2024",
+    "quarter": "Q2",
+    "period_date": "2024-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2024-II-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 9451493.0,
+        "formatted_value": "9.451.493",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 590432177.0,
+        "formatted_value": "590.432.177",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1072454158.0,
+        "formatted_value": "1.072.454.158",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 918382139.0,
+        "formatted_value": "918.382.139",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 149469682.0,
+        "formatted_value": "149.469.682",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 12931573.0,
+        "formatted_value": "12.931.573",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 10763812.0,
+        "formatted_value": "10.763.812",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 10691602.0,
+        "formatted_value": "10.691.602",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2024",
+    "quarter": "Q2",
+    "period_date": "2024-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2024-II-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 22865685.0,
+        "formatted_value": "22.865.685",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1191037108.0,
+        "formatted_value": "1.191.037.108",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1977371465.0,
+        "formatted_value": "1.977.371.465",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1665640923.0,
+        "formatted_value": "1.665.640.923",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 305896682.0,
+        "formatted_value": "305.896.682",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 38449532.0,
+        "formatted_value": "38.449.532",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 29896111.0,
+        "formatted_value": "29.896.111",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 29701853.0,
+        "formatted_value": "29.701.853",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2024",
+    "quarter": "Q3",
+    "period_date": "2024-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2024-III-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 17798725.0,
+        "formatted_value": "17.798.725",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 850665802.0,
+        "formatted_value": "850.665.802",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1433701780.0,
+        "formatted_value": "1.433.701.780",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1169576381.0,
+        "formatted_value": "1.169.576.381",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 255765346.0,
+        "formatted_value": "255.765.346",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 50846254.0,
+        "formatted_value": "50.846.254",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 41087889.0,
+        "formatted_value": "41.087.889",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 41073863.0,
+        "formatted_value": "41.073.863",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2024",
+    "quarter": "Q3",
+    "period_date": "2024-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2024-III-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 10114697.0,
+        "formatted_value": "10.114.697",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 597581982.0,
+        "formatted_value": "597.581.982",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1068079914.0,
+        "formatted_value": "1.068.079.914",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 905910271.0,
+        "formatted_value": "905.910.271",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 157396434.0,
+        "formatted_value": "157.396.434",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 19865533.0,
+        "formatted_value": "19.865.533",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 16433535.0,
+        "formatted_value": "16.433.535",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 16308385.0,
+        "formatted_value": "16.308.385",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2024",
+    "quarter": "Q3",
+    "period_date": "2024-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2024-III-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 22762982.0,
+        "formatted_value": "22.762.982",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1191681127.0,
+        "formatted_value": "1.191.681.127",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1961916415.0,
+        "formatted_value": "1.961.916.415",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1632443484.0,
+        "formatted_value": "1.632.443.484",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 323379412.0,
+        "formatted_value": "323.379.412",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 57988348.0,
+        "formatted_value": "57.988.348",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 45362375.0,
+        "formatted_value": "45.362.375",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 45064753.0,
+        "formatted_value": "45.064.753",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2024",
+    "quarter": "Tahunan",
+    "period_date": "2024-12-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2024-Tahunan-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 29315878.0,
+        "formatted_value": "29.315.878",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 894080344.0,
+        "formatted_value": "894.080.344",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1449301328.0,
+        "formatted_value": "1.449.301.328",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1177403108.0,
+        "formatted_value": "1.177.403.108",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 262640621.0,
+        "formatted_value": "262.640.621",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 68217850.0,
+        "formatted_value": "68.217.850",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 54851274.0,
+        "formatted_value": "54.851.274",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 54836305.0,
+        "formatted_value": "54.836.305",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2024",
+    "quarter": "Tahunan",
+    "period_date": "2024-12-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2024-Tahunan-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 13709930.0,
+        "formatted_value": "13.709.930",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 616469089.0,
+        "formatted_value": "616.469.089",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1129805637.0,
+        "formatted_value": "1.129.805.637",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 962619084.0,
+        "formatted_value": "962.619.084",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 162457581.0,
+        "formatted_value": "162.457.581",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 26580458.0,
+        "formatted_value": "26.580.458",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 21669397.0,
+        "formatted_value": "21.669.397",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 21463599.0,
+        "formatted_value": "21.463.599",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2024",
+    "quarter": "Tahunan",
+    "period_date": "2024-12-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2024-Tahunan-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 29783642.0,
+        "formatted_value": "29.783.642",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1209195037.0,
+        "formatted_value": "1.209.195.037",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1992983447.0,
+        "formatted_value": "1.992.983.447",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1669794400.0,
+        "formatted_value": "1.669.794.400",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 317093838.0,
+        "formatted_value": "317.093.838",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 77599110.0,
+        "formatted_value": "77.599.110",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 60643808.0,
+        "formatted_value": "60.643.808",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 60154887.0,
+        "formatted_value": "60.154.887",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2025",
+    "quarter": "Q1",
+    "period_date": "2025-03-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2025-I-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 28032494.0,
+        "formatted_value": "28.032.494",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 908976605.0,
+        "formatted_value": "908.976.605",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1533763445.0,
+        "formatted_value": "1.533.763.445",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1278027110.0,
+        "formatted_value": "1.278.027.110",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 246325028.0,
+        "formatted_value": "246.325.028",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 17455662.0,
+        "formatted_value": "17.455.662",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 14146990.0,
+        "formatted_value": "14.146.990",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 14146131.0,
+        "formatted_value": "14.146.131",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2025",
+    "quarter": "Q1",
+    "period_date": "2025-03-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2025-I-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 32156096.0,
+        "formatted_value": "32.156.096",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1215761761.0,
+        "formatted_value": "1.215.761.761",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 2098229448.0,
+        "formatted_value": "2.098.229.448",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1792375276.0,
+        "formatted_value": "1.792.375.276",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 299611337.0,
+        "formatted_value": "299.611.337",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 17382237.0,
+        "formatted_value": "17.382.237",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 13804029.0,
+        "formatted_value": "13.804.029",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 13673245.0,
+        "formatted_value": "13.673.245",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2025",
+    "quarter": "Q2",
+    "period_date": "2025-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2025-II-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 22174448.0,
+        "formatted_value": "22.174.448",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 928860140.0,
+        "formatted_value": "928.860.140",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1504118975.0,
+        "formatted_value": "1.504.118.975",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1233079977.0,
+        "formatted_value": "1.233.079.977",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 261595538.0,
+        "formatted_value": "261.595.538",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 35793659.0,
+        "formatted_value": "35.793.659",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 29022969.0,
+        "formatted_value": "29.022.969",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 29016414.0,
+        "formatted_value": "29.016.414",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2025",
+    "quarter": "Q2",
+    "period_date": "2025-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2025-II-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 10505727.0,
+        "formatted_value": "10.505.727",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 617521580.0,
+        "formatted_value": "617.521.580",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1201653267.0,
+        "formatted_value": "1.201.653.267",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1036465322.0,
+        "formatted_value": "1.036.465.322",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 160368733.0,
+        "formatted_value": "160.368.733",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 12317040.0,
+        "formatted_value": "12.317.040",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 10166015.0,
+        "formatted_value": "10.166.015",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 10094039.0,
+        "formatted_value": "10.094.039",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2025",
+    "quarter": "Q2",
+    "period_date": "2025-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2025-II-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 26438079.0,
+        "formatted_value": "26.438.079",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1253285274.0,
+        "formatted_value": "1.253.285.274",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 2106370947.0,
+        "formatted_value": "2.106.370.947",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1784298684.0,
+        "formatted_value": "1.784.298.684",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 315501335.0,
+        "formatted_value": "315.501.335",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 34744196.0,
+        "formatted_value": "34.744.196",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 26533147.0,
+        "formatted_value": "26.533.147",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 26276701.0,
+        "formatted_value": "26.276.701",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2025",
+    "quarter": "Q3",
+    "period_date": "2025-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2025-III-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 18427521.0,
+        "formatted_value": "18.427.521",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 915040454.0,
+        "formatted_value": "915.040.454",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1538501812.0,
+        "formatted_value": "1.538.501.812",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1251857118.0,
+        "formatted_value": "1.251.857.118",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 276415660.0,
+        "formatted_value": "276.415.660",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 53766944.0,
+        "formatted_value": "53.766.944",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 43413463.0,
+        "formatted_value": "43.413.463",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 43397415.0,
+        "formatted_value": "43.397.415",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2025",
+    "quarter": "Q3",
+    "period_date": "2025-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2025-III-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 10326925.0,
+        "formatted_value": "10.326.925",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 644230319.0,
+        "formatted_value": "644.230.319",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1269486437.0,
+        "formatted_value": "1.269.486.437",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1097876035.0,
+        "formatted_value": "1.097.876.035",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 166757323.0,
+        "formatted_value": "166.757.323",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 18438640.0,
+        "formatted_value": "18.438.640",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 15230673.0,
+        "formatted_value": "15.230.673",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 15115133.0,
+        "formatted_value": "15.115.133",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2025",
+    "quarter": "Q3",
+    "period_date": "2025-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2025-III-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 24194981.0,
+        "formatted_value": "24.194.981",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1280461400.0,
+        "formatted_value": "1.280.461.400",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 2123446818.0,
+        "formatted_value": "2.123.446.818",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1785548557.0,
+        "formatted_value": "1.785.548.557",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 331190818.0,
+        "formatted_value": "331.190.818",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 52863561.0,
+        "formatted_value": "52.863.561",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 41232236.0,
+        "formatted_value": "41.232.236",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 40778810.0,
+        "formatted_value": "40.778.810",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2025",
+    "quarter": "Tahunan",
+    "period_date": "2025-12-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2025-Tahunan-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 25305031.0,
+        "formatted_value": "25.305.031",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 970233234.0,
+        "formatted_value": "970.233.234",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1586828536.0,
+        "formatted_value": "1.586.828.536",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1294508286.0,
+        "formatted_value": "1.294.508.286",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 281466478.0,
+        "formatted_value": "281.466.478",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 71260876.0,
+        "formatted_value": "71.260.876",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 57563093.0,
+        "formatted_value": "57.563.093",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 57537287.0,
+        "formatted_value": "57.537.287",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2025",
+    "quarter": "Tahunan",
+    "period_date": "2025-12-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2025-Tahunan-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 13352065.0,
+        "formatted_value": "13.352.065",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 660513890.0,
+        "formatted_value": "660.513.890",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1362054731.0,
+        "formatted_value": "1.362.054.731",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1185715363.0,
+        "formatted_value": "1.185.715.363",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 171730144.0,
+        "formatted_value": "171.730.144",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 24397463.0,
+        "formatted_value": "24.397.463",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 20111040.0,
+        "formatted_value": "20.111.040",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 20040703.0,
+        "formatted_value": "20.040.703",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2025",
+    "quarter": "Tahunan",
+    "period_date": "2025-12-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2025-Tahunan-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 32044482.0,
+        "formatted_value": "32.044.482",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1305958960.0,
+        "formatted_value": "1.305.958.960",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 2135371105.0,
+        "formatted_value": "2.135.371.105",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1804429671.0,
+        "formatted_value": "1.804.429.671",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 324033858.0,
+        "formatted_value": "324.033.858",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 72792819.0,
+        "formatted_value": "72.792.819",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 57132365.0,
+        "formatted_value": "57.132.365",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 56652384.0,
+        "formatted_value": "56.652.384",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2026",
+    "quarter": "Q1",
+    "period_date": "2026-03-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2026-I-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 23963776.0,
+        "formatted_value": "23.963.776",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 970701203.0,
+        "formatted_value": "970.701.203",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1640830566.0,
+        "formatted_value": "1.640.830.566",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1370360247.0,
+        "formatted_value": "1.370.360.247",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 259132407.0,
+        "formatted_value": "259.132.407",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 18077072.0,
+        "formatted_value": "18.077.072",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 14689799.0,
+        "formatted_value": "14.689.799",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 14684123.0,
+        "formatted_value": "14.684.123",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2026",
+    "quarter": "Q1",
+    "period_date": "2026-03-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2026-I-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 11602746.0,
+        "formatted_value": "11.602.746",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 686053823.0,
+        "formatted_value": "686.053.823",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1426757735.0,
+        "formatted_value": "1.426.757.735",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1260846877.0,
+        "formatted_value": "1.260.846.877",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 161380707.0,
+        "formatted_value": "161.380.707",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 6884658.0,
+        "formatted_value": "6.884.658",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 5685784.0,
+        "formatted_value": "5.685.784",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 5660764.0,
+        "formatted_value": "5.660.764",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2026",
+    "quarter": "Q1",
+    "period_date": "2026-03-31",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2026-I-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 33059126.0,
+        "formatted_value": "33.059.126",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1345510640.0,
+        "formatted_value": "1.345.510.640",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 2249833632.0,
+        "formatted_value": "2.249.833.632",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1904771578.0,
+        "formatted_value": "1.904.771.578",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 338203528.0,
+        "formatted_value": "338.203.528",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 19985628.0,
+        "formatted_value": "19.985.628",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 15633849.0,
+        "formatted_value": "15.633.849",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 15492710.0,
+        "formatted_value": "15.492.710",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2026",
+    "quarter": "Q2",
+    "period_date": "2026-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2026-II-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 21065925.0,
+        "formatted_value": "21.065.925",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1012705846.0,
+        "formatted_value": "1.012.705.846",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1660579336.0,
+        "formatted_value": "1.660.579.336",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1379511881.0,
+        "formatted_value": "1.379.511.881",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 270437543.0,
+        "formatted_value": "270.437.543",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 36451829.0,
+        "formatted_value": "36.451.829",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 29545621.0,
+        "formatted_value": "29.545.621",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 29534446.0,
+        "formatted_value": "29.534.446",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2026",
+    "quarter": "Q2",
+    "period_date": "2026-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2026-II-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 10435364.0,
+        "formatted_value": "10.435.364",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 726835249.0,
+        "formatted_value": "726.835.249",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1461001157.0,
+        "formatted_value": "1.461.001.157",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1292770492.0,
+        "formatted_value": "1.292.770.492",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 163863555.0,
+        "formatted_value": "163.863.555",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 13071282.0,
+        "formatted_value": "13.071.282",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 10809569.0,
+        "formatted_value": "10.809.569",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 10755836.0,
+        "formatted_value": "10.755.836",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBRI",
+    "entity_name": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "year": "2026",
+    "quarter": "Q2",
+    "period_date": "2026-06-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2026-II-BBRI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 24743629.0,
+        "formatted_value": "24.743.629",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1392571269.0,
+        "formatted_value": "1.392.571.269",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 2352380589.0,
+        "formatted_value": "2.352.380.589",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 2023705711.0,
+        "formatted_value": "2.023.705.711",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 321923187.0,
+        "formatted_value": "321.923.187",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 40001209.0,
+        "formatted_value": "40.001.209",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 31182586.0,
+        "formatted_value": "31.182.586",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 30865402.0,
+        "formatted_value": "30.865.402",
+        "sheet_code": "4312000"
+      }
+    }
+  },
+  {
+    "ticker": "BBCA",
+    "entity_name": "PT Bank Central Asia Tbk.",
+    "year": "2026",
+    "quarter": "Q3",
+    "period_date": "2026-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2026-III-BBCA.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 19028152.0,
+        "formatted_value": "19.028.152",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 1039443469.0,
+        "formatted_value": "1.039.443.469",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1641511008.0,
+        "formatted_value": "1.641.511.008",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1347068280.0,
+        "formatted_value": "1.347.068.280",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 283419338.0,
+        "formatted_value": "283.419.338",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 55777065.0,
+        "formatted_value": "55.777.065",
+        "sheet_code": "4322000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 45238712.0,
+        "formatted_value": "45.238.712",
+        "sheet_code": "4322000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 45215827.0,
+        "formatted_value": "45.215.827",
+        "sheet_code": "4322000"
+      }
+    }
+  },
+  {
+    "ticker": "BBNI",
+    "entity_name": "PT Bank Negara Indonesia (Persero) Tbk",
+    "year": "2026",
+    "quarter": "Q3",
+    "period_date": "2026-09-30",
+    "rounding": "Jutaan / In Million",
+    "file_name": "FinancialStatement-2026-III-BBNI.xlsx",
+    "metrics": {
+      "kas_dan_setara_kas": {
+        "account_name": "Kas",
+        "raw_value": 10626723.0,
+        "formatted_value": "10.626.723",
+        "sheet_code": "4220000"
+      },
+      "pinjaman_kredit": {
+        "account_name": "Pinjaman yang diberikan pihak ketiga",
+        "raw_value": 756018012.0,
+        "formatted_value": "756.018.012",
+        "sheet_code": "4220000"
+      },
+      "total_aset": {
+        "account_name": "Jumlah aset",
+        "raw_value": 1481829614.0,
+        "formatted_value": "1.481.829.614",
+        "sheet_code": "4220000"
+      },
+      "total_liabilitas": {
+        "account_name": "Jumlah liabilitas",
+        "raw_value": 1307573134.0,
+        "formatted_value": "1.307.573.134",
+        "sheet_code": "4220000"
+      },
+      "total_ekuitas": {
+        "account_name": "Jumlah ekuitas yang diatribusikan kepada pemilik entitas induk",
+        "raw_value": 169872929.0,
+        "formatted_value": "169.872.929",
+        "sheet_code": "4220000"
+      },
+      "laba_sebelum_pajak": {
+        "account_name": "Jumlah laba (rugi) sebelum pajak penghasilan",
+        "raw_value": 20146056.0,
+        "formatted_value": "20.146.056",
+        "sheet_code": "4312000"
+      },
+      "laba_bersih_berjalan": {
+        "account_name": "Jumlah laba (rugi) dari operasi yang dilanjutkan",
+        "raw_value": 16148327.0,
+        "formatted_value": "16.148.327",
+        "sheet_code": "4312000"
+      },
+      "laba_atribusi_induk": {
+        "account_name": "Laba (rugi) yang dapat diatribusikan ke entitas induk",
+        "raw_value": 16116089.0,
+        "formatted_value": "16.116.089",
+        "sheet_code": "4312000"
+      }
+    }
+  }
+]
